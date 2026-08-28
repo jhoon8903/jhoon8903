@@ -35,7 +35,8 @@ Monetization    Unity IAP, AppLovin, Google Ads, Facebook SDK
 
 | Period | Company | Role | Highlight |
 |--------|---------|------|-----------|
-| 2025.11 ~ | **TeamSparta** | Unity Client Dev | VContainer DI, AI-Driven Dev, Playable Ad Pipeline |
+|2026.03 ~ | **프리랜서** | Toss In App, Playable 제작 | H5, Framework, Asset Pipeline |
+| 2025.11 ~ 2026.02 | **TeamSparta** | Unity Client Dev | VContainer DI, AI-Driven Dev, Playable Ad Pipeline |
 | 2024.01 ~ 2025.10 | **ActionFit** | Team Leader | 0→10 팀 빌딩, 51개 게임, 10종 시스템, 4+ 런칭 |
 | 2023.05 ~ 2023.09 | **스파르타코딩클럽** | Freelance | 몬스터 스타즈 클라이언트 개발 |
 
